@@ -1,0 +1,54 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StatsManagement.cs">
+    <Files>
+      <File FileName="Assets/Common/SplashAbout/AboutScreen.cs" Line="17" Column="30" />
+      <File FileName="Assets/Common/SplashAbout/LoadingScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Common/SplashAbout/AsyncSceneLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Common/MenuAnimator.cs" Line="37" Column="60" />
+      <File FileName="Assets/Scripts/MenuAnimation.cs" Line="18" Column="27" />
+      <File FileName="Assets/Scripts/MenuLogic.cs" Line="13" Column="26" />
+      <File FileName="Assets/Scripts/LoadingScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadingMScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RandomObject.cs" Line="40" Column="45" />
+      <File FileName="Assets/Common/CameraSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Common/TrackableSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SetCameraSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DisplayUi.cs" Line="36" Column="46" />
+      <File FileName="Assets/Common/TapHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CloseMenu.cs" Line="12" Column="36" />
+      <File FileName="Assets/Scripts/AutoRellover.cs" Line="66" Column="30" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RandomVoucherTrigger.cs" Line="32" Column="56" />
+      <File FileName="Assets/Scripts/RandomVoucher.cs" Line="24" Column="44" />
+      <File FileName="Assets/Scripts/AppManager.cs" Line="14" Column="40" />
+      <File FileName="Assets/Scripts/StatsManagement.cs" Line="136" Column="64" />
+      <File FileName="Assets/Scripts/SqliteDbManager.cs" Line="15" Column="9" />
+      <File FileName="Assets/sqlitekit/SQLiteQuery.cs" Line="20" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DARM" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="StatsManagement.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="DARM" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="nutellaLabel2" size="1.000000 0.515304" />
+    <ImageTarget name="nutellaLabel1" size="1.000000 0.351667" />
+    <ImageTarget name="targetFrontNutella" size="1.000000 0.761194" />
+    <ImageTarget name="targetCocaLogo2" size="1.000000 0.636943" />
+    <ImageTarget name="targetCocaLogo1" size="1.000000 0.666667" />
+    <CylinderTarget name="NutellaBottle" sideLength="1.020000"/>
+    <CylinderTarget name="Mint" sideLength="0.910000"/>
+    <CylinderTarget name="CocaBottle" sideLength="0.640000"/>
+  </Tracking>
+</QCARConfig>

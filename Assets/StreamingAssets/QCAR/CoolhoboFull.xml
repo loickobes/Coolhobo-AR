@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="targetFerrero" size="1.000000 0.831301" />
+    <ImageTarget name="targetDoubleMint" size="1.000000 1.197368" />
+    <ImageTarget name="targetCoca8" size="1.000000 0.821138" />
+    <ImageTarget name="targetCocaCan2" size="1.000000 0.306090" />
+    <ImageTarget name="targetCocaCan" size="1.000000 2.181818" />
+    <ImageTarget name="targetCoca1" size="1.000000 0.356906" />
+    <ImageTarget name="targettLogoNutella" size="1.000000 0.342320" />
+    <ImageTarget name="targetFrontNutella" size="1.000000 0.761194" />
+    <ImageTarget name="targetBack2Nutella" size="1.000000 0.674274" />
+    <CylinderTarget name="Painting" sideLength="7.070000"/>
+  </Tracking>
+</QCARConfig>
